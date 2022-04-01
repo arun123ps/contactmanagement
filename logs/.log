@@ -1,0 +1,3 @@
+2022-03-29 12:27:16,450 INFO c.p.r.Contactrepositoryimpl [main] about to execute SQL to insert user
+2022-03-29 12:27:37,424 INFO c.p.r.Contactrepositoryimpl [main] about to execute SQL to insert user
+2022-03-29 12:29:06,717 INFO c.p.r.Contactrepositoryimpl [main] about to execute SQL to insert user
